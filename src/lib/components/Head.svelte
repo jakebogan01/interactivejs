@@ -13,5 +13,5 @@
 	<meta property="og:url" content={page.url} />
 	<meta property="og:description" content={description} />
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content={'/og-image-interactivejs-800x800.jpg'} />
+	<meta property="og:image" content={'/og-image-interactivejs-1200x630.jpg'} />
 </svelte:head>

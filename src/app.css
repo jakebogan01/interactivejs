@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lexend:wght@100..900&display=swap');
 @import 'tailwindcss';
 
@@ -46,147 +45,147 @@
 	}
 }
 
-/* lexend-100 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Lexend';
-	font-style: normal;
-	font-weight: 100;
-	src: url('../fonts/lexend/lexend-v23-latin-100.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* lexend-200 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Lexend';
-	font-style: normal;
-	font-weight: 200;
-	src: url('../fonts/lexend/lexend-v23-latin-200.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* lexend-300 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Lexend';
-	font-style: normal;
-	font-weight: 300;
-	src: url('../fonts/lexend/lexend-v23-latin-300.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* lexend-regular - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Lexend';
-	font-style: normal;
-	font-weight: 400;
-	src: url('../fonts/lexend/lexend-v23-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* lexend-500 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Lexend';
-	font-style: normal;
-	font-weight: 500;
-	src: url('../fonts/lexend/lexend-v23-latin-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* lexend-600 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Lexend';
-	font-style: normal;
-	font-weight: 600;
-	src: url('../fonts/lexend/lexend-v23-latin-600.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* lexend-700 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Lexend';
-	font-style: normal;
-	font-weight: 700;
-	src: url('../fonts/lexend/lexend-v23-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* lexend-800 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Lexend';
-	font-style: normal;
-	font-weight: 800;
-	src: url('../fonts/lexend/lexend-v23-latin-800.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* lexend-900 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Lexend';
-	font-style: normal;
-	font-weight: 900;
-	src: url('../fonts/lexend/lexend-v23-latin-900.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* inter-100 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Inter';
-	font-style: normal;
-	font-weight: 100;
-	src: url('../fonts/inter/inter-v18-latin-100.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* inter-200 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Inter';
-	font-style: normal;
-	font-weight: 200;
-	src: url('../fonts/inter/inter-v18-latin-200.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* inter-300 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Inter';
-	font-style: normal;
-	font-weight: 300;
-	src: url('../fonts/inter/inter-v18-latin-300.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* inter-regular - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Inter';
-	font-style: normal;
-	font-weight: 400;
-	src: url('../fonts/inter/inter-v18-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* inter-500 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Inter';
-	font-style: normal;
-	font-weight: 500;
-	src: url('../fonts/inter/inter-v18-latin-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* inter-600 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Inter';
-	font-style: normal;
-	font-weight: 600;
-	src: url('../fonts/inter/inter-v18-latin-600.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* inter-700 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Inter';
-	font-style: normal;
-	font-weight: 700;
-	src: url('../fonts/inter/inter-v18-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* inter-800 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Inter';
-	font-style: normal;
-	font-weight: 800;
-	src: url('../fonts/inter/inter-v18-latin-800.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-/* inter-900 - latin */
-@font-face {
-	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-	font-family: 'Inter';
-	font-style: normal;
-	font-weight: 900;
-	src: url('../fonts/inter/inter-v18-latin-900.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
+/*!* lexend-100 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Lexend';*/
+/*	font-style: normal;*/
+/*	font-weight: 100;*/
+/*	src: url('../fonts/lexend/lexend-v23-latin-100.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* lexend-200 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Lexend';*/
+/*	font-style: normal;*/
+/*	font-weight: 200;*/
+/*	src: url('../fonts/lexend/lexend-v23-latin-200.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* lexend-300 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Lexend';*/
+/*	font-style: normal;*/
+/*	font-weight: 300;*/
+/*	src: url('../fonts/lexend/lexend-v23-latin-300.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* lexend-regular - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Lexend';*/
+/*	font-style: normal;*/
+/*	font-weight: 400;*/
+/*	src: url('../fonts/lexend/lexend-v23-latin-regular.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* lexend-500 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Lexend';*/
+/*	font-style: normal;*/
+/*	font-weight: 500;*/
+/*	src: url('../fonts/lexend/lexend-v23-latin-500.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* lexend-600 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Lexend';*/
+/*	font-style: normal;*/
+/*	font-weight: 600;*/
+/*	src: url('../fonts/lexend/lexend-v23-latin-600.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* lexend-700 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Lexend';*/
+/*	font-style: normal;*/
+/*	font-weight: 700;*/
+/*	src: url('../fonts/lexend/lexend-v23-latin-700.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* lexend-800 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Lexend';*/
+/*	font-style: normal;*/
+/*	font-weight: 800;*/
+/*	src: url('../fonts/lexend/lexend-v23-latin-800.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* lexend-900 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Lexend';*/
+/*	font-style: normal;*/
+/*	font-weight: 900;*/
+/*	src: url('../fonts/lexend/lexend-v23-latin-900.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* inter-100 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Inter';*/
+/*	font-style: normal;*/
+/*	font-weight: 100;*/
+/*	src: url('../fonts/inter/inter-v18-latin-100.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* inter-200 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Inter';*/
+/*	font-style: normal;*/
+/*	font-weight: 200;*/
+/*	src: url('../fonts/inter/inter-v18-latin-200.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* inter-300 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Inter';*/
+/*	font-style: normal;*/
+/*	font-weight: 300;*/
+/*	src: url('../fonts/inter/inter-v18-latin-300.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* inter-regular - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Inter';*/
+/*	font-style: normal;*/
+/*	font-weight: 400;*/
+/*	src: url('../fonts/inter/inter-v18-latin-regular.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* inter-500 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Inter';*/
+/*	font-style: normal;*/
+/*	font-weight: 500;*/
+/*	src: url('../fonts/inter/inter-v18-latin-500.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* inter-600 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Inter';*/
+/*	font-style: normal;*/
+/*	font-weight: 600;*/
+/*	src: url('../fonts/inter/inter-v18-latin-600.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* inter-700 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Inter';*/
+/*	font-style: normal;*/
+/*	font-weight: 700;*/
+/*	src: url('../fonts/inter/inter-v18-latin-700.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* inter-800 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Inter';*/
+/*	font-style: normal;*/
+/*	font-weight: 800;*/
+/*	src: url('../fonts/inter/inter-v18-latin-800.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/
+/*!* inter-900 - latin *!*/
+/*@font-face {*/
+/*	font-display: swap; !* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. *!*/
+/*	font-family: 'Inter';*/
+/*	font-style: normal;*/
+/*	font-weight: 900;*/
+/*	src: url('../fonts/inter/inter-v18-latin-900.woff2') format('woff2'); !* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ *!*/
+/*}*/

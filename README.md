@@ -14,7 +14,7 @@ This is a website that is inspired heavily by [`W3schools`](https://www.w3school
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/jakebogan01/learnvisually.git
+   git clone https://github.com/jakebogan01/interactivejs.git
    ```
 
 2. Install dependencies
@@ -33,12 +33,12 @@ This is a website that is inspired heavily by [`W3schools`](https://www.w3school
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to LearnVisually, please fork our repository and submit a pull request. We'll review your changes and merge them if they meet our guidelines. Thank you for helping to make LangX even better!
+We welcome contributions from the community! If you'd like to contribute to Interactive JS, please fork our repository and submit a pull request. We'll review your changes and merge them if they meet our guidelines. Thank you for helping to make LangX even better!
 
 ```bash
 $ npm run format
 ```
 
-We'll review your changes and merge them if they meet our guidelines. Thank you for helping to make LearnVisually even better!
+We'll review your changes and merge them if they meet our guidelines. Thank you for helping to make Interactive JS even better!
 
-LearnVisually is an open source project, and we welcome contributions from the community. If you're interested in contributing, please check out our GitHub repository for more information.
+Interactive JS is an open source project, and we welcome contributions from the community. If you're interested in contributing, please check out our GitHub repository for more information.

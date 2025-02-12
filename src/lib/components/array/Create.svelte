@@ -73,7 +73,7 @@ let colors = [${colors.join(', ')}];`;
 <p>
 	An array is a special variable, which can hold more than one value.
 	<br />
-	The new <span class="text-sky-500">Array()</span> or <span class="text-sky-500">[ ]</span> constructors
+	The <span class="text-sky-500">new Array()</span> or <span class="text-sky-500">[ ]</span> constructors
 	creates a new Array object.
 </p>
 

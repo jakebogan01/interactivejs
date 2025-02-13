@@ -33,12 +33,10 @@ This is a website that is inspired heavily by [`W3schools`](https://www.w3school
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to Interactive JS, please fork our repository and submit a pull request. We'll review your changes and merge them if they meet our guidelines. Thank you for helping to make LangX even better!
+We welcome contributions from the community! If you'd like to contribute to Interactive JS, please fork our repository and submit a pull request. We'll review your changes and merge them if they meet our guidelines. Thank you for helping to make Interactive JS even better!
 
 ```bash
 $ npm run format
 ```
-
-We'll review your changes and merge them if they meet our guidelines. Thank you for helping to make Interactive JS even better!
 
 Interactive JS is an open source project, and we welcome contributions from the community. If you're interested in contributing, please check out our GitHub repository for more information.

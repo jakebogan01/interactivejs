@@ -5,6 +5,7 @@
 	import Create from '$lib/components/array/Create.svelte';
 	import At from '$lib/components/array/At.svelte';
 	import Concat from '$lib/components/array/Concat.svelte';
+	import CopyWithin from '$lib/components/array/CopyWithin.svelte';
 
 	$inspect(global_data.active);
 </script>
@@ -44,6 +45,10 @@
 				<hr />
 
 				<Concat />
+
+				<hr />
+
+				<CopyWithin />
 			</div>
 		</article>
 	</div>
